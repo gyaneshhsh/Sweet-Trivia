@@ -37,4 +37,4 @@ async def purge(ctx,amount=50):
 		await ctx.send(f'''You don't have perms {ctx.message.author.mention}''')
 
 
-bot.run('NTkxODcxMTQyMjE4OTU2ODQy.XQ3FFw.sHRLPOtcETk8rZeVHQLcugeHoh8')
+bot.run('NjI2NDQ4NjU5NjU1MDMyODQ1.XYuPzg.YlWlNC74O7DvnZ56-dTI-UFYIz4')
